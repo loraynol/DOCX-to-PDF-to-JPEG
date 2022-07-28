@@ -10,7 +10,7 @@ PDF 轉 JPEG
 DoCX 轉 JPEG  
   
   
-This is the first code I've wrote.  
+This is the first code I wrote.  
 So if there is any thing problem or any improvement please let me know.  
 I will help you with my best.
 You need to download plopper to run this code.  
